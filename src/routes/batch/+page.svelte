@@ -3,7 +3,7 @@
 </script>
 
 <menu class="link-menu">
-	<li>
+	<li class="link-menu-item">
 		<div>svelte/store</div>
 		<small>(batching not available)</small>
 	</li>
