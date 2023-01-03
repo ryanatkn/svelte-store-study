@@ -1,9 +1,9 @@
 {
-  "name": "felt-template",
-  "description": "a static web app and Node library template with SvelteKit, Gro, and Felt",
+  "name": "svelte-store-study",
+  "description": "comparing several Svelte stores",
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://template.felt.dev",
+  "homepage": "https://ryanatkn.github.io/svelte-store-study",
   "engines": {
     "node": ">=18.6"
   },

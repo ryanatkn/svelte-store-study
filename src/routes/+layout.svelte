@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>felt-template</title>
+	<title>svelte-store-study</title>
 	<link rel="icon" href="{base}/favicon.png" />
 </svelte:head>
 
