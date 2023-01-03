@@ -1,7 +1,7 @@
 import {typescript} from 'svelte-preprocess-esbuild';
 import adapter from '@sveltejs/adapter-static';
 
-// const dev = process.argv.includes('dev'); // see below
+const dev = process.argv.includes('dev');
 
 /** @type {import('@sveltejs/kit').Config} */
 export default {
@@ -9,7 +9,7 @@ export default {
 	compilerOptions: {immutable: true},
 	kit: {
 		adapter: adapter(),
-		// paths: dev ? undefined : {base: '/svelte-store-study'}, // for GitHub pages -- delete this line for top-level domains
+		paths: dev ? undefined : {base: '/svelte-store-study'},
 		files: {assets: 'src/static'},
 	},
 };

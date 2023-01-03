@@ -7,3 +7,25 @@
 }
 
 */
+
+.link-menu {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.link-menu li:not(:last-child) {
+	margin-bottom: var(--spacing_xl3);
+}
+.link-menu > * {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	font-size: var(--font_size_xl3);
+	padding: var(--spacing_xl);
+	border-radius: var(--border_radius_sm);
+	background-color: var(--tint_dark_0);
+}
+.link-menu small {
+	font-size: var(--font_size_lg);
+}
