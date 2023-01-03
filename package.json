@@ -52,5 +52,8 @@
         }
       }
     ]
+  },
+  "dependencies": {
+    "@preact/signals-core": "^1.2.3"
   }
 }
