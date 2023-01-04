@@ -16,3 +16,9 @@
 		{/each}
 	</ul>
 </section>
+
+<style>
+	section {
+		margin-top: var(--spacing_xl3);
+	}
+</style>
