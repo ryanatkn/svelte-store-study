@@ -4,11 +4,11 @@
 	const counter = writable(0);
 	const tripled = derived(counter, ($counter) => $counter * 3);
 
-	const click = () => {
+	const increment = () => {
 		$counter++;
 	};
 </script>
 
-<button on:click={click}>clickme</button>
 <div>counter: {$counter}</div>
 <div>tripled: {$tripled}</div>
+<button on:click={increment}>increment counter</button>

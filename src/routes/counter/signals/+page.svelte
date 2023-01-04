@@ -4,11 +4,11 @@
 	const counter = signal(0);
 	const tripled = computed(() => counter.value * 3);
 
-	const click = () => {
+	const increment = () => {
 		counter.value++;
 	};
 </script>
 
-<button on:click={click}>clickme</button>
 <div>counter: {$counter}</div>
 <div>tripled: {$tripled}</div>
+<button on:click={increment}>increment counter</button>

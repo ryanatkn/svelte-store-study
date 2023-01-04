@@ -3,6 +3,20 @@
 > comparing several Svelte stores 🧡
 > [ryanatkn.github.io/svelte-store-study](https://ryanatkn.github.io/svelte-store-study)
 
+## intro
+
+[The Svelte store](https://svelte.dev/docs#run-time-svelte-store) has a contract
+that anyone can implement, and the community
+has created a number of compatible implementations with various features.
+This project aims to demonstrate these differences.
+
+The current demos:
+
+- [counter](https://ryanatkn.github.io/svelte-store-study/counter) -
+  compares the basic syntax of readable, writable, and derived/computed
+- [batch](https://ryanatkn.github.io/svelte-store-study/batch) -
+  compares batching strategies for the libraries that support it, and show why batching is useful
+
 ## develop
 
 > [Windows is not yet supported](https://github.com/feltcoop/gro/issues/319)
