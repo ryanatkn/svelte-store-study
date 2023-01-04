@@ -15,7 +15,7 @@ This project aims to demonstrate these differences so we can learn by example.
 The current demos:
 
 - [counter](https://ryanatkn.github.io/svelte-store-study/counter) -
-  compares the basic syntax of readable, writable, and derived/computed
+  compares the basic syntax of reading/writing/deriving
 - [batch](https://ryanatkn.github.io/svelte-store-study/batch) -
   compares batching strategies for the libraries that support it, and show why batching is useful
 
