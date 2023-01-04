@@ -1,7 +1,29 @@
 # Svelte store study
 
-> comparing several Svelte stores 🧡
+> assessing several Svelte stores 🧡
 > [ryanatkn.github.io/svelte-store-study](https://ryanatkn.github.io/svelte-store-study)
+
+**status**: basic proof of concept - includes a couple examples for a couple store libraries
+
+## intro
+
+[The Svelte store](https://svelte.dev/docs#run-time-svelte-store) has a contract
+that anyone can implement, and the community
+has created a number of compatible implementations with various features.
+This project aims to demonstrate these differences.
+
+The current demos:
+
+- [counter](https://ryanatkn.github.io/svelte-store-study/counter) -
+  compares the basic syntax of readable, writable, and derived/computed
+- [batch](https://ryanatkn.github.io/svelte-store-study/batch) -
+  compares batching strategies for the libraries that support it, and show why batching is useful
+
+...are implemented for the following stores (when supported):
+
+- [`svelte/store`](https://github.com/sveltejs/svelte)
+- [`@preact/signals-core`](https://github.com/preactjs/signals)
+- [`@amadeus-it-group/tansu`](https://github.com/AmadeusItGroup/tansu)
 
 ## develop
 
@@ -50,6 +72,8 @@ customize or delete [src/static/CNAME](/src/static/CNAME).
 ## credits 🐢<sub>🐢</sub><sub><sub>🐢</sub></sub>
 
 [Svelte](https://github.com/sveltejs/svelte) ∙
+[Signals](https://github.com/preactjs/signals)
+[Tansu](https://github.com/AmadeusItGroup/tansu)
 [SvelteKit](https://github.com/sveltejs/kit) ∙
 [Vite](https://github.com/vitejs/vite) ∙
 [esbuild](https://github.com/evanw/esbuild) ∙
