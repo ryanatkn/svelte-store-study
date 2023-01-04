@@ -8,7 +8,7 @@
 ## intro
 
 [The Svelte store](https://svelte.dev/docs#run-time-svelte-store) has a contract
-that anyone can implement, and the community
+that any object can implement, and the community
 has created a number of compatible implementations with various features.
 This project aims to demonstrate these differences so we can learn by example.
 
