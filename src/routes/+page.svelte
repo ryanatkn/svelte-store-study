@@ -7,7 +7,7 @@
 		<header class="markup">
 			<h1>Svelte store study</h1>
 			<p>
-				comparing several <a href="https://svelte.dev/docs#run-time-svelte-store">Svelte stores</a>
+				assessing several <a href="https://svelte.dev/docs#run-time-svelte-store">Svelte stores</a>
 			</p>
 			<div><a href="https://github.com/ryanatkn/svelte-store-study">source</a></div>
 		</header>

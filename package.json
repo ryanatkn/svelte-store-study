@@ -1,6 +1,6 @@
 {
   "name": "svelte-store-study",
-  "description": "comparing several Svelte stores",
+  "description": "assessing several Svelte stores",
   "version": "0.0.1",
   "type": "module",
   "homepage": "https://ryanatkn.github.io/svelte-store-study",
