@@ -19,6 +19,12 @@ The current demos:
 - [batch](https://ryanatkn.github.io/svelte-store-study/batch) -
   compares batching strategies for the libraries that support it, and show why batching is useful
 
+...are implemented for the following stores (when supported):
+
+- [`svelte/store`](https://github.com/sveltejs/svelte)
+- [`@preact/signals-core`](https://github.com/preactjs/signals-core)
+- [`@amadeus-it-group/tansu`](https://github.com/AmadeusItGroup/tansu)
+
 ## develop
 
 > [Windows is not yet supported](https://github.com/feltcoop/gro/issues/319)
@@ -66,6 +72,8 @@ customize or delete [src/static/CNAME](/src/static/CNAME).
 ## credits 🐢<sub>🐢</sub><sub><sub>🐢</sub></sub>
 
 [Svelte](https://github.com/sveltejs/svelte) ∙
+[Preact Signals](https://github.com/preactjs/signals-core)
+[Tansu](https://github.com/AmadeusItGroup/tansu)
 [SvelteKit](https://github.com/sveltejs/kit) ∙
 [Vite](https://github.com/vitejs/vite) ∙
 [esbuild](https://github.com/evanw/esbuild) ∙
