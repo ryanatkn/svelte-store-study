@@ -23,9 +23,9 @@
 <div class="breadcrumbs">
 	<!-- The default/only slot is the content for the root "/" link. -->
 	<a href={rootPath} class:selected={rootPath === finalSelectedPath}><slot>•</slot></a
-	>{#each pathPieces as pathPiece}{#if pathPiece.type === 'piece'}<a
-				href={finalBasePath + pathPiece.path}
-				class:selected={pathPiece.path === finalSelectedPath}>{pathPiece.name}</a
+	>{#each pathPieces as pathPiece}{#if pathPiece.type === 'piece'}{@const path =
+				finalBasePath + pathPiece.path}<a href={path} class:selected={path === finalSelectedPath}
+				>{pathPiece.name}</a
 			>{:else}<span class="separator"><slot name="separator">/</slot></span>{/if}{/each}
 </div>
 
