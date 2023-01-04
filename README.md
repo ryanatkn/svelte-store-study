@@ -17,7 +17,7 @@ The current demos:
 - [counter](https://ryanatkn.github.io/svelte-store-study/counter) -
   compares the basic syntax of reading/writing/deriving
 - [batch](https://ryanatkn.github.io/svelte-store-study/batch) -
-  compares batching strategies for the libraries that support it, and show why batching is useful
+  compares batching strategies for the libraries that support it, and shows why batching is useful
 
 ...are implemented for the following stores (when supported):
 
