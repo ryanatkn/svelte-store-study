@@ -22,7 +22,7 @@ The current demos:
 ...are implemented for the following stores (when supported):
 
 - [`svelte/store`](https://github.com/sveltejs/svelte)
-- [`@preact/signals-core`](https://github.com/preactjs/signals-core)
+- [`@preact/signals-core`](https://github.com/preactjs/signals)
 - [`@amadeus-it-group/tansu`](https://github.com/AmadeusItGroup/tansu)
 
 ## develop
@@ -72,7 +72,7 @@ customize or delete [src/static/CNAME](/src/static/CNAME).
 ## credits 🐢<sub>🐢</sub><sub><sub>🐢</sub></sub>
 
 [Svelte](https://github.com/sveltejs/svelte) ∙
-[Preact Signals](https://github.com/preactjs/signals-core)
+[Signals](https://github.com/preactjs/signals)
 [Tansu](https://github.com/AmadeusItGroup/tansu)
 [SvelteKit](https://github.com/sveltejs/kit) ∙
 [Vite](https://github.com/vitejs/vite) ∙
