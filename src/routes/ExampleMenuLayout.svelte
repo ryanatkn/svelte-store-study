@@ -1,12 +1,12 @@
 <script lang="ts">
-	import Breadcrumbs from '@feltcoop/felt/Breadcrumbs.svelte';
+	// import Breadcrumbs from '@feltcoop/felt/Breadcrumbs.svelte';
 
 	// TODO rename/move this module?
 </script>
 
 <main class="column">
 	<section>
-		<Breadcrumbs>🧡</Breadcrumbs>
+		<!-- <Breadcrumbs>🧡</Breadcrumbs> -->
 	</section>
 	<section>
 		<slot />
