@@ -1,6 +1,6 @@
 # Svelte store study
 
-> comparing several Svelte stores 🧡
+> assessing several Svelte stores 🧡
 > [ryanatkn.github.io/svelte-store-study](https://ryanatkn.github.io/svelte-store-study)
 
 **status**: basic proof of concept - includes a couple examples for a couple store libraries
