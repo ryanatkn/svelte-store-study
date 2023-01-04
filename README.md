@@ -72,8 +72,8 @@ customize or delete [src/static/CNAME](/src/static/CNAME).
 ## credits 🐢<sub>🐢</sub><sub><sub>🐢</sub></sub>
 
 [Svelte](https://github.com/sveltejs/svelte) ∙
-[Signals](https://github.com/preactjs/signals)
-[Tansu](https://github.com/AmadeusItGroup/tansu)
+[Signals](https://github.com/preactjs/signals) ∙
+[Tansu](https://github.com/AmadeusItGroup/tansu) ∙
 [SvelteKit](https://github.com/sveltejs/kit) ∙
 [Vite](https://github.com/vitejs/vite) ∙
 [esbuild](https://github.com/evanw/esbuild) ∙
