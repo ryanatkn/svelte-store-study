@@ -48,15 +48,6 @@ gro build
 
 See [Gro's build docs](https://github.com/feltcoop/gro/blob/main/src/docs/build.md) for more.
 
-## test
-
-```bash
-gro test
-```
-
-See [`uvu`](https://github.com/lukeed/uvu)
-and [Gro's test docs](https://github.com/feltcoop/gro/blob/main/src/docs/test.md).
-
 ## deploy
 
 [Deploy](https://github.com/feltcoop/gro/blob/main/src/docs/deploy.md)
@@ -65,9 +56,6 @@ and [Gro's test docs](https://github.com/feltcoop/gro/blob/main/src/docs/test.md
 ```bash
 gro deploy
 ```
-
-To configure GitHub pages (which this repo uses) or another static host,
-customize or delete [src/static/CNAME](/src/static/CNAME).
 
 ## credits 🐢<sub>🐢</sub><sub><sub>🐢</sub></sub>
 
