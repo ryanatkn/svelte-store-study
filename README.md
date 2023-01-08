@@ -21,7 +21,7 @@ The current demos:
 
 ...are implemented for the following stores (when supported):
 
-- [`svelte/store`](https://github.com/sveltejs/svelte)
+- [`svelte`/store](https://github.com/sveltejs/svelte)
 - [`@preact/signals-core`](https://github.com/preactjs/signals)
 - [`@amadeus-it-group/tansu`](https://github.com/AmadeusItGroup/tansu)
 
