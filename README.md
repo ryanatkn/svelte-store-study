@@ -2,9 +2,9 @@
 
 ## 📚 archived
 
-[Svelte 5 Runes](https://svelte.dev/blog/runes)
+**update! [Svelte 5 runes](https://svelte.dev/blog/runes)
 made this obsolete, and the new design
-is some of the most magical programming pain relief I've ever experienced
+is some of the most magical programming pain relief I've ever experienced**
 
 ## 📚 archived
 
