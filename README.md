@@ -1,5 +1,13 @@
 # Svelte store study
 
+## 📚 archived
+
+[Svelte 5 Runes](https://svelte.dev/blog/runes)
+made this obsolete, and the new design
+is some of the most magical programming pain relief I've ever experienced
+
+## 📚 archived
+
 > assessing several [Svelte stores](https://svelte.dev/docs#run-time-svelte-store) 🧡
 > [ryanatkn.github.io/svelte-store-study](https://ryanatkn.github.io/svelte-store-study)
 
